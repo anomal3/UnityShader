@@ -2,7 +2,7 @@
 Шейдеры на шейдерграфе, с функциями которые по-умолчанию присутствуют в UnrealEngine
 ---
 
-## LitShader Rotate [HDRP]
+## Rotate Texture [HDRP]
 ---
 Шейдер который можно вращать на объекте.
 Такой шейдер полезен если нужно немного видоизменить текстуру, например плитку.
@@ -81,6 +81,6 @@ Shader "Custom/UV rotation"
 
 
 
-I love supporting the **[EFF](https://eff.org)**.
+![This is exanple](/RotateTexture/RotateTexture.gif)
 ---
 
