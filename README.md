@@ -80,7 +80,7 @@ Shader "Custom/UV rotation"
 
 
 
-
+---
 ![This is exanple](/RotateTexture/RotateTexture.gif)
 ---
-
+---
